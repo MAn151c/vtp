@@ -1,0 +1,501 @@
+product_id,product_category_name
+P_0001,Phụ kiện
+P_0002,Phụ kiện
+P_0003,Mỹ phẩm
+P_0004,Điện thoại
+P_0005,Laptop
+P_0006,Phụ kiện
+P_0007,Thời trang
+P_0008,Phụ kiện
+P_0009,Laptop
+P_0010,Điện thoại
+P_0011,Điện thoại
+P_0012,Laptop
+P_0013,Thời trang
+P_0014,Thời trang
+P_0015,Phụ kiện
+P_0016,Phụ kiện
+P_0017,Laptop
+P_0018,Phụ kiện
+P_0019,Điện thoại
+P_0020,Điện thoại
+P_0021,Laptop
+P_0022,Sách
+P_0023,Phụ kiện
+P_0024,Sách
+P_0025,Phụ kiện
+P_0026,Phụ kiện
+P_0027,Mỹ phẩm
+P_0028,Điện thoại
+P_0029,Điện thoại
+P_0030,Sách
+P_0031,Thời trang
+P_0032,Điện thoại
+P_0033,Điện thoại
+P_0034,Sách
+P_0035,Đồ chơi
+P_0036,Phụ kiện
+P_0037,Điện thoại
+P_0038,Mỹ phẩm
+P_0039,Phụ kiện
+P_0040,Phụ kiện
+P_0041,Gia dụng
+P_0042,Phụ kiện
+P_0043,Thời trang
+P_0044,Đồ chơi
+P_0045,Mỹ phẩm
+P_0046,Phụ kiện
+P_0047,Laptop
+P_0048,Laptop
+P_0049,Phụ kiện
+P_0050,Phụ kiện
+P_0051,Phụ kiện
+P_0052,Điện thoại
+P_0053,Điện thoại
+P_0054,Phụ kiện
+P_0055,Thời trang
+P_0056,Thời trang
+P_0057,Phụ kiện
+P_0058,Gia dụng
+P_0059,Gia dụng
+P_0060,Phụ kiện
+P_0061,Điện thoại
+P_0062,Thời trang
+P_0063,Phụ kiện
+P_0064,Điện thoại
+P_0065,Sách
+P_0066,Phụ kiện
+P_0067,Thời trang
+P_0068,Phụ kiện
+P_0069,Điện thoại
+P_0070,Điện thoại
+P_0071,Thời trang
+P_0072,Laptop
+P_0073,Laptop
+P_0074,Sách
+P_0075,Phụ kiện
+P_0076,Điện thoại
+P_0077,Phụ kiện
+P_0078,Thời trang
+P_0079,Phụ kiện
+P_0080,Điện thoại
+P_0081,Phụ kiện
+P_0082,Điện thoại
+P_0083,Thời trang
+P_0084,Thời trang
+P_0085,Điện thoại
+P_0086,Laptop
+P_0087,Phụ kiện
+P_0088,Thời trang
+P_0089,Laptop
+P_0090,Laptop
+P_0091,Sách
+P_0092,Điện thoại
+P_0093,Sách
+P_0094,Điện thoại
+P_0095,Laptop
+P_0096,Phụ kiện
+P_0097,Điện thoại
+P_0098,Điện thoại
+P_0099,Laptop
+P_0100,Sách
+P_0101,Phụ kiện
+P_0102,Thời trang
+P_0103,Gia dụng
+P_0104,Gia dụng
+P_0105,Gia dụng
+P_0106,Phụ kiện
+P_0107,Điện thoại
+P_0108,Laptop
+P_0109,Laptop
+P_0110,Điện thoại
+P_0111,Điện thoại
+P_0112,Sách
+P_0113,Sách
+P_0114,Điện thoại
+P_0115,Điện thoại
+P_0116,Điện thoại
+P_0117,Laptop
+P_0118,Laptop
+P_0119,Sách
+P_0120,Điện thoại
+P_0121,Laptop
+P_0122,Điện thoại
+P_0123,Sách
+P_0124,Sách
+P_0125,Gia dụng
+P_0126,Phụ kiện
+P_0127,Điện thoại
+P_0128,Laptop
+P_0129,Phụ kiện
+P_0130,Mỹ phẩm
+P_0131,Laptop
+P_0132,Phụ kiện
+P_0133,Thời trang
+P_0134,Laptop
+P_0135,Thời trang
+P_0136,Phụ kiện
+P_0137,Điện thoại
+P_0138,Phụ kiện
+P_0139,Sách
+P_0140,Laptop
+P_0141,Phụ kiện
+P_0142,Điện thoại
+P_0143,Thời trang
+P_0144,Mỹ phẩm
+P_0145,Phụ kiện
+P_0146,Laptop
+P_0147,Sách
+P_0148,Gia dụng
+P_0149,Thời trang
+P_0150,Phụ kiện
+P_0151,Laptop
+P_0152,Gia dụng
+P_0153,Thời trang
+P_0154,Thời trang
+P_0155,Điện thoại
+P_0156,Thời trang
+P_0157,Mỹ phẩm
+P_0158,Sách
+P_0159,Điện thoại
+P_0160,Thời trang
+P_0161,Thời trang
+P_0162,Đồ chơi
+P_0163,Mỹ phẩm
+P_0164,Sách
+P_0165,Sách
+P_0166,Laptop
+P_0167,Gia dụng
+P_0168,Thời trang
+P_0169,Laptop
+P_0170,Điện thoại
+P_0171,Điện thoại
+P_0172,Mỹ phẩm
+P_0173,Phụ kiện
+P_0174,Đồ chơi
+P_0175,Thời trang
+P_0176,Gia dụng
+P_0177,Laptop
+P_0178,Phụ kiện
+P_0179,Phụ kiện
+P_0180,Laptop
+P_0181,Mỹ phẩm
+P_0182,Thời trang
+P_0183,Điện thoại
+P_0184,Mỹ phẩm
+P_0185,Điện thoại
+P_0186,Phụ kiện
+P_0187,Thời trang
+P_0188,Điện thoại
+P_0189,Gia dụng
+P_0190,Gia dụng
+P_0191,Gia dụng
+P_0192,Điện thoại
+P_0193,Laptop
+P_0194,Laptop
+P_0195,Sách
+P_0196,Điện thoại
+P_0197,Phụ kiện
+P_0198,Đồ chơi
+P_0199,Mỹ phẩm
+P_0200,Mỹ phẩm
+P_0201,Sách
+P_0202,Phụ kiện
+P_0203,Phụ kiện
+P_0204,Điện thoại
+P_0205,Điện thoại
+P_0206,Thời trang
+P_0207,Điện thoại
+P_0208,Gia dụng
+P_0209,Điện thoại
+P_0210,Laptop
+P_0211,Gia dụng
+P_0212,Laptop
+P_0213,Gia dụng
+P_0214,Sách
+P_0215,Mỹ phẩm
+P_0216,Phụ kiện
+P_0217,Sách
+P_0218,Điện thoại
+P_0219,Gia dụng
+P_0220,Điện thoại
+P_0221,Điện thoại
+P_0222,Sách
+P_0223,Phụ kiện
+P_0224,Mỹ phẩm
+P_0225,Phụ kiện
+P_0226,Mỹ phẩm
+P_0227,Sách
+P_0228,Phụ kiện
+P_0229,Thời trang
+P_0230,Thời trang
+P_0231,Sách
+P_0232,Laptop
+P_0233,Thời trang
+P_0234,Phụ kiện
+P_0235,Laptop
+P_0236,Điện thoại
+P_0237,Thời trang
+P_0238,Đồ chơi
+P_0239,Phụ kiện
+P_0240,Thời trang
+P_0241,Thời trang
+P_0242,Phụ kiện
+P_0243,Sách
+P_0244,Phụ kiện
+P_0245,Điện thoại
+P_0246,Điện thoại
+P_0247,Đồ chơi
+P_0248,Sách
+P_0249,Laptop
+P_0250,Điện thoại
+P_0251,Phụ kiện
+P_0252,Gia dụng
+P_0253,Thời trang
+P_0254,Sách
+P_0255,Mỹ phẩm
+P_0256,Đồ chơi
+P_0257,Thời trang
+P_0258,Phụ kiện
+P_0259,Gia dụng
+P_0260,Phụ kiện
+P_0261,Laptop
+P_0262,Điện thoại
+P_0263,Thời trang
+P_0264,Thời trang
+P_0265,Thời trang
+P_0266,Điện thoại
+P_0267,Thời trang
+P_0268,Điện thoại
+P_0269,Gia dụng
+P_0270,Phụ kiện
+P_0271,Mỹ phẩm
+P_0272,Mỹ phẩm
+P_0273,Gia dụng
+P_0274,Gia dụng
+P_0275,Thời trang
+P_0276,Điện thoại
+P_0277,Gia dụng
+P_0278,Phụ kiện
+P_0279,Phụ kiện
+P_0280,Phụ kiện
+P_0281,Sách
+P_0282,Laptop
+P_0283,Phụ kiện
+P_0284,Sách
+P_0285,Mỹ phẩm
+P_0286,Điện thoại
+P_0287,Sách
+P_0288,Laptop
+P_0289,Gia dụng
+P_0290,Thời trang
+P_0291,Thời trang
+P_0292,Gia dụng
+P_0293,Laptop
+P_0294,Điện thoại
+P_0295,Gia dụng
+P_0296,Laptop
+P_0297,Sách
+P_0298,Phụ kiện
+P_0299,Điện thoại
+P_0300,Gia dụng
+P_0301,Phụ kiện
+P_0302,Điện thoại
+P_0303,Phụ kiện
+P_0304,Sách
+P_0305,Phụ kiện
+P_0306,Phụ kiện
+P_0307,Phụ kiện
+P_0308,Điện thoại
+P_0309,Điện thoại
+P_0310,Mỹ phẩm
+P_0311,Sách
+P_0312,Điện thoại
+P_0313,Thời trang
+P_0314,Sách
+P_0315,Điện thoại
+P_0316,Điện thoại
+P_0317,Sách
+P_0318,Gia dụng
+P_0319,Điện thoại
+P_0320,Phụ kiện
+P_0321,Điện thoại
+P_0322,Phụ kiện
+P_0323,Mỹ phẩm
+P_0324,Thời trang
+P_0325,Thời trang
+P_0326,Phụ kiện
+P_0327,Điện thoại
+P_0328,Điện thoại
+P_0329,Mỹ phẩm
+P_0330,Thời trang
+P_0331,Laptop
+P_0332,Phụ kiện
+P_0333,Mỹ phẩm
+P_0334,Thời trang
+P_0335,Phụ kiện
+P_0336,Laptop
+P_0337,Laptop
+P_0338,Mỹ phẩm
+P_0339,Thời trang
+P_0340,Gia dụng
+P_0341,Đồ chơi
+P_0342,Sách
+P_0343,Laptop
+P_0344,Điện thoại
+P_0345,Phụ kiện
+P_0346,Điện thoại
+P_0347,Mỹ phẩm
+P_0348,Đồ chơi
+P_0349,Gia dụng
+P_0350,Laptop
+P_0351,Điện thoại
+P_0352,Phụ kiện
+P_0353,Mỹ phẩm
+P_0354,Phụ kiện
+P_0355,Điện thoại
+P_0356,Laptop
+P_0357,Sách
+P_0358,Gia dụng
+P_0359,Sách
+P_0360,Mỹ phẩm
+P_0361,Thời trang
+P_0362,Điện thoại
+P_0363,Phụ kiện
+P_0364,Thời trang
+P_0365,Đồ chơi
+P_0366,Laptop
+P_0367,Điện thoại
+P_0368,Thời trang
+P_0369,Điện thoại
+P_0370,Thời trang
+P_0371,Laptop
+P_0372,Laptop
+P_0373,Phụ kiện
+P_0374,Thời trang
+P_0375,Thời trang
+P_0376,Laptop
+P_0377,Đồ chơi
+P_0378,Điện thoại
+P_0379,Điện thoại
+P_0380,Thời trang
+P_0381,Điện thoại
+P_0382,Thời trang
+P_0383,Sách
+P_0384,Gia dụng
+P_0385,Thời trang
+P_0386,Thời trang
+P_0387,Điện thoại
+P_0388,Phụ kiện
+P_0389,Phụ kiện
+P_0390,Sách
+P_0391,Laptop
+P_0392,Phụ kiện
+P_0393,Sách
+P_0394,Mỹ phẩm
+P_0395,Sách
+P_0396,Thời trang
+P_0397,Phụ kiện
+P_0398,Mỹ phẩm
+P_0399,Laptop
+P_0400,Điện thoại
+P_0401,Gia dụng
+P_0402,Thời trang
+P_0403,Đồ chơi
+P_0404,Sách
+P_0405,Đồ chơi
+P_0406,Điện thoại
+P_0407,Gia dụng
+P_0408,Mỹ phẩm
+P_0409,Sách
+P_0410,Phụ kiện
+P_0411,Điện thoại
+P_0412,Đồ chơi
+P_0413,Phụ kiện
+P_0414,Thời trang
+P_0415,Phụ kiện
+P_0416,Phụ kiện
+P_0417,Gia dụng
+P_0418,Phụ kiện
+P_0419,Gia dụng
+P_0420,Điện thoại
+P_0421,Phụ kiện
+P_0422,Phụ kiện
+P_0423,Gia dụng
+P_0424,Phụ kiện
+P_0425,Thời trang
+P_0426,Gia dụng
+P_0427,Gia dụng
+P_0428,Thời trang
+P_0429,Phụ kiện
+P_0430,Phụ kiện
+P_0431,Thời trang
+P_0432,Điện thoại
+P_0433,Đồ chơi
+P_0434,Mỹ phẩm
+P_0435,Phụ kiện
+P_0436,Thời trang
+P_0437,Sách
+P_0438,Laptop
+P_0439,Gia dụng
+P_0440,Điện thoại
+P_0441,Thời trang
+P_0442,Đồ chơi
+P_0443,Thời trang
+P_0444,Thời trang
+P_0445,Sách
+P_0446,Gia dụng
+P_0447,Gia dụng
+P_0448,Thời trang
+P_0449,Thời trang
+P_0450,Mỹ phẩm
+P_0451,Sách
+P_0452,Mỹ phẩm
+P_0453,Gia dụng
+P_0454,Điện thoại
+P_0455,Mỹ phẩm
+P_0456,Gia dụng
+P_0457,Mỹ phẩm
+P_0458,Laptop
+P_0459,Sách
+P_0460,Điện thoại
+P_0461,Laptop
+P_0462,Gia dụng
+P_0463,Gia dụng
+P_0464,Phụ kiện
+P_0465,Gia dụng
+P_0466,Phụ kiện
+P_0467,Điện thoại
+P_0468,Điện thoại
+P_0469,Đồ chơi
+P_0470,Laptop
+P_0471,Điện thoại
+P_0472,Gia dụng
+P_0473,Phụ kiện
+P_0474,Mỹ phẩm
+P_0475,Đồ chơi
+P_0476,Mỹ phẩm
+P_0477,Phụ kiện
+P_0478,Thời trang
+P_0479,Gia dụng
+P_0480,Phụ kiện
+P_0481,Điện thoại
+P_0482,Phụ kiện
+P_0483,Điện thoại
+P_0484,Sách
+P_0485,Mỹ phẩm
+P_0486,Điện thoại
+P_0487,Laptop
+P_0488,Sách
+P_0489,Phụ kiện
+P_0490,Mỹ phẩm
+P_0491,Phụ kiện
+P_0492,Đồ chơi
+P_0493,Gia dụng
+P_0494,Điện thoại
+P_0495,Laptop
+P_0496,Thời trang
+P_0497,Sách
+P_0498,Điện thoại
+P_0499,Thời trang
+P_0500,Phụ kiện

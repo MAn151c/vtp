@@ -1,0 +1,501 @@
+customer_id,customer_unique_id,customer_city,customer_name
+C_000001,U_000172,Hải Phòng,Nguyen Van R
+C_000002,U_000012,Cần Thơ,Nguyen Van S
+C_000003,U_000267,Đà Nẵng,Nguyen Van I
+C_000004,U_000039,Cần Thơ,Nguyen Van W
+C_000005,U_000263,Cần Thơ,Nguyen Van V
+C_000006,U_000271,TP.HCM,Nguyen Van I
+C_000007,U_000081,Đà Nẵng,Nguyen Van X
+C_000008,U_000098,Đà Nẵng,Nguyen Van F
+C_000009,U_000184,Đà Nẵng,Nguyen Van Y
+C_000010,U_000100,Cần Thơ,Nguyen Van S
+C_000011,U_000131,Hải Phòng,Nguyen Van B
+C_000012,U_000277,Đà Nẵng,Nguyen Van L
+C_000013,U_000035,Cần Thơ,Nguyen Van S
+C_000014,U_000145,TP.HCM,Nguyen Van Y
+C_000015,U_000278,Hải Phòng,Nguyen Van B
+C_000016,U_000062,TP.HCM,Nguyen Van Y
+C_000017,U_000140,Hải Phòng,Nguyen Van K
+C_000018,U_000182,Cần Thơ,Nguyen Van J
+C_000019,U_000179,Hà Nội,Nguyen Van S
+C_000020,U_000270,Hải Phòng,Nguyen Van O
+C_000021,U_000115,TP.HCM,Nguyen Van S
+C_000022,U_000063,Cần Thơ,Nguyen Van K
+C_000023,U_000019,Hải Phòng,Nguyen Van Y
+C_000024,U_000058,Hà Nội,Nguyen Van N
+C_000025,U_000070,Hà Nội,Nguyen Van P
+C_000026,U_000091,Đà Nẵng,Nguyen Van P
+C_000027,U_000197,Đà Nẵng,Nguyen Van B
+C_000028,U_000292,TP.HCM,Nguyen Van C
+C_000029,U_000166,Hải Phòng,Nguyen Van S
+C_000030,U_000174,Hải Phòng,Nguyen Van W
+C_000031,U_000128,Đà Nẵng,Nguyen Van G
+C_000032,U_000067,Hải Phòng,Nguyen Van G
+C_000033,U_000037,Hải Phòng,Nguyen Van S
+C_000034,U_000208,Hà Nội,Nguyen Van I
+C_000035,U_000163,Đà Nẵng,Nguyen Van X
+C_000036,U_000109,Cần Thơ,Nguyen Van A
+C_000037,U_000094,Đà Nẵng,Nguyen Van X
+C_000038,U_000172,Cần Thơ,Nguyen Van C
+C_000039,U_000281,Hà Nội,Nguyen Van P
+C_000040,U_000066,TP.HCM,Nguyen Van X
+C_000041,U_000081,Hải Phòng,Nguyen Van Y
+C_000042,U_000088,Hà Nội,Nguyen Van Z
+C_000043,U_000297,Hải Phòng,Nguyen Van O
+C_000044,U_000054,TP.HCM,Nguyen Van T
+C_000045,U_000036,TP.HCM,Nguyen Van N
+C_000046,U_000056,Hà Nội,Nguyen Van Z
+C_000047,U_000275,TP.HCM,Nguyen Van V
+C_000048,U_000194,Cần Thơ,Nguyen Van V
+C_000049,U_000159,TP.HCM,Nguyen Van N
+C_000050,U_000210,Hải Phòng,Nguyen Van M
+C_000051,U_000258,Hải Phòng,Nguyen Van P
+C_000052,U_000150,Hải Phòng,Nguyen Van V
+C_000053,U_000013,Hải Phòng,Nguyen Van O
+C_000054,U_000163,Cần Thơ,Nguyen Van Y
+C_000055,U_000161,Đà Nẵng,Nguyen Van D
+C_000056,U_000180,Hà Nội,Nguyen Van L
+C_000057,U_000107,Hải Phòng,Nguyen Van C
+C_000058,U_000146,TP.HCM,Nguyen Van I
+C_000059,U_000140,Hải Phòng,Nguyen Van W
+C_000060,U_000081,TP.HCM,Nguyen Van K
+C_000061,U_000038,TP.HCM,Nguyen Van N
+C_000062,U_000140,Hải Phòng,Nguyen Van G
+C_000063,U_000116,Cần Thơ,Nguyen Van S
+C_000064,U_000227,TP.HCM,Nguyen Van W
+C_000065,U_000171,TP.HCM,Nguyen Van A
+C_000066,U_000022,Hải Phòng,Nguyen Van D
+C_000067,U_000102,TP.HCM,Nguyen Van I
+C_000068,U_000221,TP.HCM,Nguyen Van E
+C_000069,U_000202,Hải Phòng,Nguyen Van O
+C_000070,U_000161,Hải Phòng,Nguyen Van D
+C_000071,U_000093,Hà Nội,Nguyen Van Q
+C_000072,U_000253,Cần Thơ,Nguyen Van K
+C_000073,U_000244,Cần Thơ,Nguyen Van Z
+C_000074,U_000271,TP.HCM,Nguyen Van I
+C_000075,U_000138,Cần Thơ,Nguyen Van X
+C_000076,U_000267,TP.HCM,Nguyen Van D
+C_000077,U_000091,Hà Nội,Nguyen Van E
+C_000078,U_000047,Hải Phòng,Nguyen Van M
+C_000079,U_000191,Hải Phòng,Nguyen Van Y
+C_000080,U_000065,Hải Phòng,Nguyen Van R
+C_000081,U_000227,Cần Thơ,Nguyen Van Z
+C_000082,U_000043,Hà Nội,Nguyen Van D
+C_000083,U_000147,Cần Thơ,Nguyen Van X
+C_000084,U_000014,Cần Thơ,Nguyen Van R
+C_000085,U_000260,Hà Nội,Nguyen Van F
+C_000086,U_000243,Hà Nội,Nguyen Van K
+C_000087,U_000233,Hà Nội,Nguyen Van A
+C_000088,U_000045,Hà Nội,Nguyen Van X
+C_000089,U_000282,Hải Phòng,Nguyen Van F
+C_000090,U_000274,Đà Nẵng,Nguyen Van G
+C_000091,U_000244,Đà Nẵng,Nguyen Van J
+C_000092,U_000160,Hà Nội,Nguyen Van T
+C_000093,U_000233,Đà Nẵng,Nguyen Van U
+C_000094,U_000261,Đà Nẵng,Nguyen Van U
+C_000095,U_000234,Hà Nội,Nguyen Van G
+C_000096,U_000239,Đà Nẵng,Nguyen Van I
+C_000097,U_000082,Cần Thơ,Nguyen Van Z
+C_000098,U_000117,TP.HCM,Nguyen Van I
+C_000099,U_000268,TP.HCM,Nguyen Van D
+C_000100,U_000276,Hà Nội,Nguyen Van Y
+C_000101,U_000112,Hải Phòng,Nguyen Van V
+C_000102,U_000193,Hà Nội,Nguyen Van K
+C_000103,U_000252,Hải Phòng,Nguyen Van G
+C_000104,U_000088,TP.HCM,Nguyen Van Q
+C_000105,U_000138,Hà Nội,Nguyen Van Q
+C_000106,U_000169,Cần Thơ,Nguyen Van K
+C_000107,U_000185,Đà Nẵng,Nguyen Van H
+C_000108,U_000065,Hải Phòng,Nguyen Van Z
+C_000109,U_000104,Đà Nẵng,Nguyen Van E
+C_000110,U_000094,Đà Nẵng,Nguyen Van M
+C_000111,U_000091,Hà Nội,Nguyen Van B
+C_000112,U_000297,Đà Nẵng,Nguyen Van E
+C_000113,U_000014,Cần Thơ,Nguyen Van W
+C_000114,U_000161,Đà Nẵng,Nguyen Van W
+C_000115,U_000207,Hà Nội,Nguyen Van J
+C_000116,U_000206,Cần Thơ,Nguyen Van H
+C_000117,U_000160,TP.HCM,Nguyen Van Q
+C_000118,U_000024,Đà Nẵng,Nguyen Van S
+C_000119,U_000269,Hà Nội,Nguyen Van U
+C_000120,U_000228,TP.HCM,Nguyen Van K
+C_000121,U_000163,TP.HCM,Nguyen Van U
+C_000122,U_000223,Hải Phòng,Nguyen Van R
+C_000123,U_000028,Cần Thơ,Nguyen Van S
+C_000124,U_000248,Đà Nẵng,Nguyen Van F
+C_000125,U_000215,Hà Nội,Nguyen Van S
+C_000126,U_000156,Hải Phòng,Nguyen Van K
+C_000127,U_000020,Cần Thơ,Nguyen Van C
+C_000128,U_000184,Hải Phòng,Nguyen Van L
+C_000129,U_000061,Cần Thơ,Nguyen Van N
+C_000130,U_000161,Cần Thơ,Nguyen Van E
+C_000131,U_000235,Đà Nẵng,Nguyen Van V
+C_000132,U_000060,Cần Thơ,Nguyen Van X
+C_000133,U_000044,Hải Phòng,Nguyen Van V
+C_000134,U_000186,Cần Thơ,Nguyen Van B
+C_000135,U_000265,Đà Nẵng,Nguyen Van R
+C_000136,U_000128,Đà Nẵng,Nguyen Van J
+C_000137,U_000153,Hải Phòng,Nguyen Van I
+C_000138,U_000116,TP.HCM,Nguyen Van E
+C_000139,U_000171,TP.HCM,Nguyen Van B
+C_000140,U_000035,Cần Thơ,Nguyen Van A
+C_000141,U_000093,Hà Nội,Nguyen Van G
+C_000142,U_000155,Cần Thơ,Nguyen Van K
+C_000143,U_000190,Hải Phòng,Nguyen Van F
+C_000144,U_000040,Hải Phòng,Nguyen Van Y
+C_000145,U_000284,Hải Phòng,Nguyen Van N
+C_000146,U_000134,Hải Phòng,Nguyen Van H
+C_000147,U_000251,Hải Phòng,Nguyen Van W
+C_000148,U_000265,Đà Nẵng,Nguyen Van C
+C_000149,U_000207,TP.HCM,Nguyen Van O
+C_000150,U_000227,Hải Phòng,Nguyen Van E
+C_000151,U_000238,Hà Nội,Nguyen Van P
+C_000152,U_000156,Hà Nội,Nguyen Van O
+C_000153,U_000004,Hà Nội,Nguyen Van A
+C_000154,U_000299,Hà Nội,Nguyen Van L
+C_000155,U_000219,Đà Nẵng,Nguyen Van P
+C_000156,U_000182,Hà Nội,Nguyen Van S
+C_000157,U_000264,Hải Phòng,Nguyen Van X
+C_000158,U_000008,Cần Thơ,Nguyen Van H
+C_000159,U_000297,Hà Nội,Nguyen Van L
+C_000160,U_000295,Đà Nẵng,Nguyen Van S
+C_000161,U_000090,Đà Nẵng,Nguyen Van Q
+C_000162,U_000235,Hà Nội,Nguyen Van V
+C_000163,U_000213,Cần Thơ,Nguyen Van B
+C_000164,U_000291,Hà Nội,Nguyen Van D
+C_000165,U_000283,Đà Nẵng,Nguyen Van T
+C_000166,U_000030,TP.HCM,Nguyen Van T
+C_000167,U_000269,Hải Phòng,Nguyen Van X
+C_000168,U_000020,Đà Nẵng,Nguyen Van Q
+C_000169,U_000294,Hà Nội,Nguyen Van W
+C_000170,U_000124,Hải Phòng,Nguyen Van G
+C_000171,U_000163,Hà Nội,Nguyen Van W
+C_000172,U_000187,Hà Nội,Nguyen Van D
+C_000173,U_000031,TP.HCM,Nguyen Van B
+C_000174,U_000137,Hải Phòng,Nguyen Van E
+C_000175,U_000100,Hải Phòng,Nguyen Van S
+C_000176,U_000006,TP.HCM,Nguyen Van I
+C_000177,U_000247,Đà Nẵng,Nguyen Van Y
+C_000178,U_000203,Hà Nội,Nguyen Van T
+C_000179,U_000141,Cần Thơ,Nguyen Van L
+C_000180,U_000271,Hà Nội,Nguyen Van X
+C_000181,U_000008,Hà Nội,Nguyen Van J
+C_000182,U_000027,Đà Nẵng,Nguyen Van K
+C_000183,U_000019,Hà Nội,Nguyen Van M
+C_000184,U_000057,TP.HCM,Nguyen Van V
+C_000185,U_000209,TP.HCM,Nguyen Van X
+C_000186,U_000159,Hải Phòng,Nguyen Van A
+C_000187,U_000011,Cần Thơ,Nguyen Van L
+C_000188,U_000141,Hà Nội,Nguyen Van X
+C_000189,U_000184,Hà Nội,Nguyen Van E
+C_000190,U_000287,Đà Nẵng,Nguyen Van V
+C_000191,U_000183,TP.HCM,Nguyen Van Y
+C_000192,U_000041,Cần Thơ,Nguyen Van P
+C_000193,U_000255,Hải Phòng,Nguyen Van S
+C_000194,U_000272,TP.HCM,Nguyen Van E
+C_000195,U_000151,Hải Phòng,Nguyen Van B
+C_000196,U_000007,Đà Nẵng,Nguyen Van D
+C_000197,U_000228,Đà Nẵng,Nguyen Van O
+C_000198,U_000050,Hà Nội,Nguyen Van X
+C_000199,U_000118,Cần Thơ,Nguyen Van M
+C_000200,U_000191,Hải Phòng,Nguyen Van H
+C_000201,U_000043,TP.HCM,Nguyen Van L
+C_000202,U_000166,Đà Nẵng,Nguyen Van U
+C_000203,U_000187,Hà Nội,Nguyen Van X
+C_000204,U_000006,Hà Nội,Nguyen Van V
+C_000205,U_000226,Hải Phòng,Nguyen Van T
+C_000206,U_000247,Đà Nẵng,Nguyen Van P
+C_000207,U_000193,Cần Thơ,Nguyen Van C
+C_000208,U_000012,Đà Nẵng,Nguyen Van O
+C_000209,U_000067,Hải Phòng,Nguyen Van R
+C_000210,U_000005,Hải Phòng,Nguyen Van Q
+C_000211,U_000269,Đà Nẵng,Nguyen Van A
+C_000212,U_000293,Hải Phòng,Nguyen Van T
+C_000213,U_000193,Đà Nẵng,Nguyen Van I
+C_000214,U_000299,TP.HCM,Nguyen Van W
+C_000215,U_000223,Đà Nẵng,Nguyen Van B
+C_000216,U_000004,Đà Nẵng,Nguyen Van T
+C_000217,U_000249,Hải Phòng,Nguyen Van J
+C_000218,U_000222,Hải Phòng,Nguyen Van Q
+C_000219,U_000026,Hà Nội,Nguyen Van W
+C_000220,U_000295,Hà Nội,Nguyen Van Y
+C_000221,U_000105,TP.HCM,Nguyen Van G
+C_000222,U_000005,Hà Nội,Nguyen Van Z
+C_000223,U_000028,Đà Nẵng,Nguyen Van E
+C_000224,U_000080,Hải Phòng,Nguyen Van P
+C_000225,U_000183,Hà Nội,Nguyen Van U
+C_000226,U_000032,Hà Nội,Nguyen Van G
+C_000227,U_000022,TP.HCM,Nguyen Van P
+C_000228,U_000028,TP.HCM,Nguyen Van L
+C_000229,U_000129,Đà Nẵng,Nguyen Van P
+C_000230,U_000124,Hải Phòng,Nguyen Van V
+C_000231,U_000200,TP.HCM,Nguyen Van Q
+C_000232,U_000114,Hà Nội,Nguyen Van D
+C_000233,U_000190,Hải Phòng,Nguyen Van R
+C_000234,U_000216,Hải Phòng,Nguyen Van R
+C_000235,U_000281,Hà Nội,Nguyen Van U
+C_000236,U_000118,TP.HCM,Nguyen Van E
+C_000237,U_000078,Hà Nội,Nguyen Van A
+C_000238,U_000152,Hải Phòng,Nguyen Van B
+C_000239,U_000278,Cần Thơ,Nguyen Van A
+C_000240,U_000202,Cần Thơ,Nguyen Van D
+C_000241,U_000173,Đà Nẵng,Nguyen Van O
+C_000242,U_000280,Hà Nội,Nguyen Van F
+C_000243,U_000184,Hà Nội,Nguyen Van D
+C_000244,U_000154,Đà Nẵng,Nguyen Van V
+C_000245,U_000096,Đà Nẵng,Nguyen Van J
+C_000246,U_000173,Đà Nẵng,Nguyen Van Q
+C_000247,U_000021,Hải Phòng,Nguyen Van D
+C_000248,U_000184,Hà Nội,Nguyen Van G
+C_000249,U_000288,Hải Phòng,Nguyen Van L
+C_000250,U_000066,Đà Nẵng,Nguyen Van I
+C_000251,U_000159,Hà Nội,Nguyen Van D
+C_000252,U_000156,Hải Phòng,Nguyen Van P
+C_000253,U_000175,Hải Phòng,Nguyen Van E
+C_000254,U_000011,Đà Nẵng,Nguyen Van K
+C_000255,U_000055,Hà Nội,Nguyen Van X
+C_000256,U_000248,Đà Nẵng,Nguyen Van W
+C_000257,U_000172,Hà Nội,Nguyen Van D
+C_000258,U_000038,Cần Thơ,Nguyen Van Z
+C_000259,U_000028,TP.HCM,Nguyen Van X
+C_000260,U_000194,TP.HCM,Nguyen Van K
+C_000261,U_000187,TP.HCM,Nguyen Van F
+C_000262,U_000055,Đà Nẵng,Nguyen Van J
+C_000263,U_000072,Cần Thơ,Nguyen Van Y
+C_000264,U_000104,Hà Nội,Nguyen Van F
+C_000265,U_000089,Hải Phòng,Nguyen Van G
+C_000266,U_000121,Hà Nội,Nguyen Van C
+C_000267,U_000137,Hải Phòng,Nguyen Van D
+C_000268,U_000255,Hà Nội,Nguyen Van Q
+C_000269,U_000255,Cần Thơ,Nguyen Van Q
+C_000270,U_000051,Hải Phòng,Nguyen Van R
+C_000271,U_000251,Đà Nẵng,Nguyen Van W
+C_000272,U_000048,Hà Nội,Nguyen Van M
+C_000273,U_000064,Hà Nội,Nguyen Van X
+C_000274,U_000156,Hải Phòng,Nguyen Van B
+C_000275,U_000082,Đà Nẵng,Nguyen Van L
+C_000276,U_000013,Đà Nẵng,Nguyen Van Q
+C_000277,U_000085,Cần Thơ,Nguyen Van R
+C_000278,U_000285,Đà Nẵng,Nguyen Van S
+C_000279,U_000243,Đà Nẵng,Nguyen Van J
+C_000280,U_000114,Đà Nẵng,Nguyen Van K
+C_000281,U_000008,TP.HCM,Nguyen Van I
+C_000282,U_000246,Cần Thơ,Nguyen Van L
+C_000283,U_000156,Hà Nội,Nguyen Van I
+C_000284,U_000127,Hải Phòng,Nguyen Van U
+C_000285,U_000273,Hà Nội,Nguyen Van U
+C_000286,U_000241,Cần Thơ,Nguyen Van Y
+C_000287,U_000048,Hải Phòng,Nguyen Van I
+C_000288,U_000170,Cần Thơ,Nguyen Van W
+C_000289,U_000226,Đà Nẵng,Nguyen Van P
+C_000290,U_000238,Hải Phòng,Nguyen Van L
+C_000291,U_000155,Đà Nẵng,Nguyen Van U
+C_000292,U_000251,Hà Nội,Nguyen Van K
+C_000293,U_000069,Hà Nội,Nguyen Van Q
+C_000294,U_000082,Hải Phòng,Nguyen Van U
+C_000295,U_000060,Hải Phòng,Nguyen Van H
+C_000296,U_000053,Cần Thơ,Nguyen Van O
+C_000297,U_000059,Cần Thơ,Nguyen Van T
+C_000298,U_000066,Đà Nẵng,Nguyen Van O
+C_000299,U_000049,Hải Phòng,Nguyen Van G
+C_000300,U_000265,Hà Nội,Nguyen Van I
+C_000301,U_000203,Cần Thơ,Nguyen Van N
+C_000302,U_000147,Cần Thơ,Nguyen Van J
+C_000303,U_000113,Hà Nội,Nguyen Van J
+C_000304,U_000043,Cần Thơ,Nguyen Van J
+C_000305,U_000122,Đà Nẵng,Nguyen Van L
+C_000306,U_000274,Hải Phòng,Nguyen Van P
+C_000307,U_000086,Hà Nội,Nguyen Van F
+C_000308,U_000237,Hải Phòng,Nguyen Van F
+C_000309,U_000116,Cần Thơ,Nguyen Van U
+C_000310,U_000149,Cần Thơ,Nguyen Van K
+C_000311,U_000189,Hà Nội,Nguyen Van B
+C_000312,U_000011,Đà Nẵng,Nguyen Van V
+C_000313,U_000081,TP.HCM,Nguyen Van T
+C_000314,U_000222,Hà Nội,Nguyen Van J
+C_000315,U_000101,TP.HCM,Nguyen Van G
+C_000316,U_000017,TP.HCM,Nguyen Van D
+C_000317,U_000246,Đà Nẵng,Nguyen Van X
+C_000318,U_000011,TP.HCM,Nguyen Van D
+C_000319,U_000184,TP.HCM,Nguyen Van L
+C_000320,U_000167,Đà Nẵng,Nguyen Van T
+C_000321,U_000279,TP.HCM,Nguyen Van M
+C_000322,U_000003,TP.HCM,Nguyen Van J
+C_000323,U_000131,TP.HCM,Nguyen Van O
+C_000324,U_000047,Hà Nội,Nguyen Van Q
+C_000325,U_000178,Hà Nội,Nguyen Van C
+C_000326,U_000199,Hà Nội,Nguyen Van O
+C_000327,U_000171,Đà Nẵng,Nguyen Van O
+C_000328,U_000182,Cần Thơ,Nguyen Van M
+C_000329,U_000158,TP.HCM,Nguyen Van L
+C_000330,U_000258,TP.HCM,Nguyen Van M
+C_000331,U_000218,Đà Nẵng,Nguyen Van H
+C_000332,U_000147,TP.HCM,Nguyen Van C
+C_000333,U_000207,Hà Nội,Nguyen Van Z
+C_000334,U_000165,Cần Thơ,Nguyen Van P
+C_000335,U_000142,Hải Phòng,Nguyen Van D
+C_000336,U_000296,TP.HCM,Nguyen Van J
+C_000337,U_000142,Hà Nội,Nguyen Van F
+C_000338,U_000010,Hải Phòng,Nguyen Van B
+C_000339,U_000087,Cần Thơ,Nguyen Van J
+C_000340,U_000120,Hải Phòng,Nguyen Van H
+C_000341,U_000167,Hà Nội,Nguyen Van L
+C_000342,U_000211,Hải Phòng,Nguyen Van V
+C_000343,U_000087,Đà Nẵng,Nguyen Van J
+C_000344,U_000276,Hải Phòng,Nguyen Van S
+C_000345,U_000229,TP.HCM,Nguyen Van S
+C_000346,U_000123,TP.HCM,Nguyen Van Y
+C_000347,U_000246,Đà Nẵng,Nguyen Van F
+C_000348,U_000042,Hà Nội,Nguyen Van L
+C_000349,U_000222,TP.HCM,Nguyen Van L
+C_000350,U_000112,Cần Thơ,Nguyen Van P
+C_000351,U_000211,TP.HCM,Nguyen Van S
+C_000352,U_000088,TP.HCM,Nguyen Van J
+C_000353,U_000031,Hà Nội,Nguyen Van X
+C_000354,U_000295,Hải Phòng,Nguyen Van I
+C_000355,U_000257,TP.HCM,Nguyen Van P
+C_000356,U_000120,Đà Nẵng,Nguyen Van C
+C_000357,U_000019,Hải Phòng,Nguyen Van Z
+C_000358,U_000263,Cần Thơ,Nguyen Van M
+C_000359,U_000188,Hà Nội,Nguyen Van D
+C_000360,U_000088,Cần Thơ,Nguyen Van K
+C_000361,U_000060,Hải Phòng,Nguyen Van F
+C_000362,U_000072,Hải Phòng,Nguyen Van E
+C_000363,U_000150,Hải Phòng,Nguyen Van J
+C_000364,U_000122,Cần Thơ,Nguyen Van B
+C_000365,U_000166,Hải Phòng,Nguyen Van Y
+C_000366,U_000160,Cần Thơ,Nguyen Van H
+C_000367,U_000163,Hải Phòng,Nguyen Van L
+C_000368,U_000284,Đà Nẵng,Nguyen Van D
+C_000369,U_000251,Hải Phòng,Nguyen Van A
+C_000370,U_000015,Cần Thơ,Nguyen Van X
+C_000371,U_000055,TP.HCM,Nguyen Van F
+C_000372,U_000018,Hải Phòng,Nguyen Van T
+C_000373,U_000215,TP.HCM,Nguyen Van H
+C_000374,U_000190,Đà Nẵng,Nguyen Van V
+C_000375,U_000272,Hà Nội,Nguyen Van L
+C_000376,U_000114,Đà Nẵng,Nguyen Van R
+C_000377,U_000018,Hải Phòng,Nguyen Van H
+C_000378,U_000212,TP.HCM,Nguyen Van Z
+C_000379,U_000189,TP.HCM,Nguyen Van T
+C_000380,U_000033,Cần Thơ,Nguyen Van P
+C_000381,U_000201,TP.HCM,Nguyen Van O
+C_000382,U_000248,Cần Thơ,Nguyen Van E
+C_000383,U_000289,Hà Nội,Nguyen Van Z
+C_000384,U_000042,Hải Phòng,Nguyen Van C
+C_000385,U_000192,Cần Thơ,Nguyen Van T
+C_000386,U_000231,Hà Nội,Nguyen Van Y
+C_000387,U_000194,TP.HCM,Nguyen Van U
+C_000388,U_000284,TP.HCM,Nguyen Van R
+C_000389,U_000174,Hà Nội,Nguyen Van P
+C_000390,U_000010,TP.HCM,Nguyen Van O
+C_000391,U_000211,Hà Nội,Nguyen Van I
+C_000392,U_000186,Cần Thơ,Nguyen Van F
+C_000393,U_000194,Cần Thơ,Nguyen Van O
+C_000394,U_000254,Hà Nội,Nguyen Van S
+C_000395,U_000066,Cần Thơ,Nguyen Van S
+C_000396,U_000284,Cần Thơ,Nguyen Van W
+C_000397,U_000128,Cần Thơ,Nguyen Van N
+C_000398,U_000078,Đà Nẵng,Nguyen Van B
+C_000399,U_000248,Hải Phòng,Nguyen Van R
+C_000400,U_000182,TP.HCM,Nguyen Van J
+C_000401,U_000083,Đà Nẵng,Nguyen Van U
+C_000402,U_000071,Cần Thơ,Nguyen Van R
+C_000403,U_000071,Hà Nội,Nguyen Van R
+C_000404,U_000150,Cần Thơ,Nguyen Van J
+C_000405,U_000084,Hải Phòng,Nguyen Van O
+C_000406,U_000173,Cần Thơ,Nguyen Van U
+C_000407,U_000146,Hà Nội,Nguyen Van S
+C_000408,U_000161,Hải Phòng,Nguyen Van Y
+C_000409,U_000004,Cần Thơ,Nguyen Van I
+C_000410,U_000145,Hải Phòng,Nguyen Van G
+C_000411,U_000028,TP.HCM,Nguyen Van E
+C_000412,U_000136,TP.HCM,Nguyen Van V
+C_000413,U_000173,Cần Thơ,Nguyen Van Z
+C_000414,U_000107,Hải Phòng,Nguyen Van L
+C_000415,U_000118,Hà Nội,Nguyen Van R
+C_000416,U_000139,Cần Thơ,Nguyen Van M
+C_000417,U_000267,TP.HCM,Nguyen Van D
+C_000418,U_000203,TP.HCM,Nguyen Van W
+C_000419,U_000143,Cần Thơ,Nguyen Van K
+C_000420,U_000175,Hải Phòng,Nguyen Van B
+C_000421,U_000221,TP.HCM,Nguyen Van O
+C_000422,U_000051,Hải Phòng,Nguyen Van U
+C_000423,U_000187,TP.HCM,Nguyen Van B
+C_000424,U_000008,TP.HCM,Nguyen Van Z
+C_000425,U_000279,Đà Nẵng,Nguyen Van M
+C_000426,U_000021,TP.HCM,Nguyen Van P
+C_000427,U_000074,Hà Nội,Nguyen Van O
+C_000428,U_000281,Cần Thơ,Nguyen Van T
+C_000429,U_000081,Cần Thơ,Nguyen Van A
+C_000430,U_000200,Hải Phòng,Nguyen Van W
+C_000431,U_000215,TP.HCM,Nguyen Van A
+C_000432,U_000065,Hà Nội,Nguyen Van C
+C_000433,U_000021,Hải Phòng,Nguyen Van U
+C_000434,U_000018,Đà Nẵng,Nguyen Van M
+C_000435,U_000139,Hải Phòng,Nguyen Van F
+C_000436,U_000249,Hải Phòng,Nguyen Van O
+C_000437,U_000036,TP.HCM,Nguyen Van D
+C_000438,U_000019,Đà Nẵng,Nguyen Van R
+C_000439,U_000134,Hải Phòng,Nguyen Van S
+C_000440,U_000278,Hà Nội,Nguyen Van T
+C_000441,U_000024,Hà Nội,Nguyen Van W
+C_000442,U_000162,Cần Thơ,Nguyen Van K
+C_000443,U_000032,Đà Nẵng,Nguyen Van O
+C_000444,U_000133,Đà Nẵng,Nguyen Van N
+C_000445,U_000268,Cần Thơ,Nguyen Van A
+C_000446,U_000254,Hải Phòng,Nguyen Van K
+C_000447,U_000150,Đà Nẵng,Nguyen Van T
+C_000448,U_000155,Hà Nội,Nguyen Van P
+C_000449,U_000192,Hà Nội,Nguyen Van N
+C_000450,U_000141,TP.HCM,Nguyen Van G
+C_000451,U_000071,Đà Nẵng,Nguyen Van U
+C_000452,U_000110,Hải Phòng,Nguyen Van Y
+C_000453,U_000190,Cần Thơ,Nguyen Van V
+C_000454,U_000011,Cần Thơ,Nguyen Van C
+C_000455,U_000013,Hải Phòng,Nguyen Van B
+C_000456,U_000222,TP.HCM,Nguyen Van F
+C_000457,U_000195,Cần Thơ,Nguyen Van Q
+C_000458,U_000151,Đà Nẵng,Nguyen Van O
+C_000459,U_000050,TP.HCM,Nguyen Van U
+C_000460,U_000296,Đà Nẵng,Nguyen Van W
+C_000461,U_000254,Hà Nội,Nguyen Van S
+C_000462,U_000159,TP.HCM,Nguyen Van K
+C_000463,U_000053,Cần Thơ,Nguyen Van N
+C_000464,U_000295,TP.HCM,Nguyen Van M
+C_000465,U_000074,TP.HCM,Nguyen Van K
+C_000466,U_000114,TP.HCM,Nguyen Van U
+C_000467,U_000027,TP.HCM,Nguyen Van W
+C_000468,U_000030,Đà Nẵng,Nguyen Van Q
+C_000469,U_000110,Hà Nội,Nguyen Van X
+C_000470,U_000005,Hải Phòng,Nguyen Van D
+C_000471,U_000024,TP.HCM,Nguyen Van U
+C_000472,U_000119,Cần Thơ,Nguyen Van N
+C_000473,U_000191,TP.HCM,Nguyen Van B
+C_000474,U_000130,Cần Thơ,Nguyen Van E
+C_000475,U_000058,Đà Nẵng,Nguyen Van G
+C_000476,U_000005,Cần Thơ,Nguyen Van U
+C_000477,U_000204,Hải Phòng,Nguyen Van Q
+C_000478,U_000180,Hà Nội,Nguyen Van Q
+C_000479,U_000281,Cần Thơ,Nguyen Van Y
+C_000480,U_000245,Cần Thơ,Nguyen Van M
+C_000481,U_000083,Hà Nội,Nguyen Van X
+C_000482,U_000073,Hải Phòng,Nguyen Van N
+C_000483,U_000100,TP.HCM,Nguyen Van R
+C_000484,U_000268,Cần Thơ,Nguyen Van L
+C_000485,U_000137,Hà Nội,Nguyen Van Z
+C_000486,U_000249,Đà Nẵng,Nguyen Van K
+C_000487,U_000024,Hà Nội,Nguyen Van H
+C_000488,U_000060,Đà Nẵng,Nguyen Van M
+C_000489,U_000156,Hải Phòng,Nguyen Van F
+C_000490,U_000178,TP.HCM,Nguyen Van Y
+C_000491,U_000152,Hà Nội,Nguyen Van T
+C_000492,U_000234,Cần Thơ,Nguyen Van B
+C_000493,U_000038,Hải Phòng,Nguyen Van Z
+C_000494,U_000052,Hà Nội,Nguyen Van Q
+C_000495,U_000214,Cần Thơ,Nguyen Van V
+C_000496,U_000207,Hà Nội,Nguyen Van M
+C_000497,U_000300,Đà Nẵng,Nguyen Van T
+C_000498,U_000201,Hà Nội,Nguyen Van W
+C_000499,U_000295,Hà Nội,Nguyen Van H
+C_000500,U_000044,Hà Nội,Nguyen Van L

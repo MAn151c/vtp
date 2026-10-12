@@ -1,7 +1,8 @@
 # VTP project
-#Mô tả
-Đây là dự án phân tích dữ liệu thương mại điện tử sử dụng SQL để xử lý dữ liệu thô và dùng PowerBI để xây dựng Star Schema và tạo ra các dashboard nhằm báo cáo các chỉ số cơ bản như AOV, Total Revenue,Total orders và biểu đồ FRM .
-Đặc biệt, giao diện (UI/UX) được thiết kế bám sát **Brand Guideline của Viettel Post** (Màu Đỏ chủ đạo `#EE0033`, kết hợp cấu trúc Grid Layout chuẩn mực), nhằm mang lại trải nghiệm chuyên nghiệp, sạch sẽ và dễ đọc nhất cho cấp Quản lý (C-level).
+##  Mô tả
+Đây là dự án phân tích dữ liệu thương mại điện tử, sử dụng **SQL** để xử lý dữ liệu thô và **Power BI** để xây dựng mô hình dữ liệu (Star Schema). Dự án tập trung tạo ra các dashboard trực quan nhằm báo cáo các chỉ số hiệu quả kinh doanh cốt lõi như: Total Revenue (Tổng doanh thu), Total Orders (Tổng số đơn hàng), AOV (Giá trị trung bình đơn) và phân tích tệp khách hàng theo mô hình **RFM**.
+
+Đặc biệt, giao diện (UI/UX) của báo cáo được thiết kế bám sát Brand Guideline của Viettel Post (với màu Đỏ chủ đạo `#EE0033`, kết hợp cấu trúc Grid Layout chuẩn mực). Điều này nhằm mang lại trải nghiệm chuyên nghiệp, trực quan, sạch sẽ và dễ tiếp nhận nhất dành cho cấp Quản lý (C-level) trong quá trình ra quyết định.
 --
 ##  Business Understanding & Key Questions
 Dashboard này được thiết kế để giải quyết 4 nhóm vấn đề trọng tâm sau của doanh nghiệp:

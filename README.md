@@ -3,7 +3,7 @@
 Đây là dự án phân tích dữ liệu thương mại điện tử sử dụng SQL để xử lý dữ liệu thô và dùng PowerBI để xây dựng Star Schema và tạo ra các dashboard nhằm báo cáo các chỉ số cơ bản như AOV, Total Revenue,Total orders và biểu đồ FRM .
 Đặc biệt, giao diện (UI/UX) được thiết kế bám sát **Brand Guideline của Viettel Post** (Màu Đỏ chủ đạo `#EE0033`, kết hợp cấu trúc Grid Layout chuẩn mực), nhằm mang lại trải nghiệm chuyên nghiệp, sạch sẽ và dễ đọc nhất cho cấp Quản lý (C-level).
 --
-## 🎯 Business Understanding & Key Questions
+##  Business Understanding & Key Questions
 Dashboard này được thiết kế để giải quyết 4 nhóm vấn đề trọng tâm sau của doanh nghiệp:
 
 1. **Đánh giá sức khỏe kinh doanh (Business Performance):**
@@ -32,12 +32,12 @@ Dashboard này được thiết kế để giải quyết 4 nhóm vấn đề tr
 * `/2_PowerBI_Dashboard`: Chứa file báo cáo gốc (`.pbix`) và bản xuất báo cáo nhanh (`.pdf`).
 * `/3_Images`: Hình ảnh chụp màn hình Dashboard độ phân giải cao.
 ---
-## 💡 Key Actionable Insights (Ví dụ)
+##  Key Actionable Insights (Ví dụ)
 1. **RFM Insights:** Nhóm "Champions" tuy chỉ chiếm một phần nhỏ số lượng nhưng lại đang đóng góp phần lớn tỷ trọng doanh thu. Cần có chính sách Loyalty Program (Điểm thưởng/Voucher riêng) cho nhóm này.
 2. **Sales Insights:** Ngành hàng "Thời trang" và "Mỹ phẩm" là động lực doanh thu cốt lõi, nhưng giá trị trung bình đơn (AOV) của "Đồ gia dụng" lại cao nhất.
 3. **Cross-sell Opportunities:** Ghi nhận tỷ lệ mua kèm cực cao giữa "Điện thoại" và "Phụ kiện". Đội ngũ Sales có thể áp dụng chiến thuật bundle pricing (bán theo gói) để tối đa hóa doanh thu trên mỗi phiên mua sắm.
 ---
-## 🚀 How to explore this project
+##  How to explore this project
 1. Đọc các file `.sql` trong thư mục `1_SQL_Scripts` để đánh giá tư duy xử lý dữ liệu và cấu trúc logic.
 2. Mở file `.pdf` trong `2_PowerBI_Dashboard` để có cái nhìn tổng quan về giao diện báo cáo.
 3. Để tương tác trực tiếp với dữ liệu (lọc theo năm, tháng, khu vực), hãy tải file `.pbix` và mở bằng Power BI Desktop.
